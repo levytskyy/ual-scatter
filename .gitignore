@@ -65,8 +65,6 @@ jspm_packages/
 .next
 
 # Typescript
-dist/
-dist-web/
 build/
 
 # Dev Server Static Output
